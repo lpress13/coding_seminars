@@ -1,9 +1,11 @@
-def do_stuff(big_thing, important_name)
-  answer = 0
-  bottom = 0
-  big_thing.each do |little_thing|
-    answer += little_thing[important_name]
-    bottom += 1
+def average(array_of_hashes, key)
+  total = 0
+  count = 0
+  array_of_hashes.each do |hash|
+    total += hash[key]
+    count += 1
   end
-  answer.to_f / bottom
+  total.to_f / count
 end
+
+puts average([{"Number" => 23, "Potato" => 26}, {"Number" => 43}], "Number")
