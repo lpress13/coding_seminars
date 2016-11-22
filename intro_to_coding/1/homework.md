@@ -11,18 +11,18 @@ After completing this assignment, you should...
 * Understand complex data structures and how they can store multi-dimensional data.
 * Be able to create and use hashes.
 * Be able to create and use nested data structures.
-* Be able to write READMEs in Markdown.
+* Be able to write a test suite using TDD.
 
 ## Deliverables
 
-* **A GitHub repository.**
 * **A Ruby file called `blackjack_advisor.rb`.**
-* **A README.**  This document must contain a description of your program, what it is for, and how to use it.  It must be called `README.md` and be written in Markdown.
-* **A series of commits on that repository.**  Not just one at the end!
+* **A Ruby file called `blackjack_test.rb`.**
 
-After your work is complete, make sure to `git push` your changes up to GitHub.  Feel free to do this more than once along the way, of course.
+## Easy Mode
 
-Use the homework submission form on the course website to turn in a link to your GitHub repository.
+DO THIS FIRST, BEFORE NORMAL MODE
+
+...
 
 ## Normal Mode
 

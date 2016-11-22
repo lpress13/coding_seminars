@@ -9,11 +9,13 @@
 
 * Homework Review
   * []()
-* Problem:
+  * Linking files together (break methods off from executing code)
+* Problem: Something like this https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/array_and_hash_challenge.rb
   * TDD: [Here is a test suite]()
   * Methods
-* Problem:
+* Problem: Address Book
   * TDD: Let's write our own test suite
+  * Iterative design
   * Hashes
   * Arrays of Hashes
 
