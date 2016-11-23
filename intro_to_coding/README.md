@@ -10,20 +10,20 @@ Honestly, I'm going to ask a lot of questions about pace and content along the w
 
 DAY 1
 
-* Test-driven development
 * Iterative design
 * Methods
 * Common data structures
-* Calculations and basic statistics
+* Object-oriented programming
 
 DAY 2
 
+* Test-driven development
 * Git and best practices
-* Processing data files
 
 DAY 3
 
-* Object-oriented programming
+* Processing data files
+* Calculations and basic statistics
 * Regular expressions
 
 DAY 4
