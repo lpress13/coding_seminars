@@ -8,9 +8,13 @@
 ### Lecture
 
 * Homework Review (20 min)
-  * []()
+  * [Carly's](https://gist.github.com/cshedlick/4f03f8eed0c967c9eabeb8ebc615a457)
+  * Comments
+  * Indentation
   * `"` vs `'`
   * Ways to determine if something is an Integer
+  * Assignment in a condition
+  * truthiness, &&, ||
 * Problem: [Blackjack Advisor](blackjack.md) (30 min)
   * Iterative design
   * Hashes in hashes in arrays
