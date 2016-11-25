@@ -18,7 +18,7 @@
   * Multiple parameters
   * Extract Method pattern
   * Linking files together (break methods off from executing code)
-* Problem: []() (40 min)
+* Problem: [Albums and Artists?]() (40 min)
   * Object Oriented Programming
   * Everything in Ruby is an object
 
