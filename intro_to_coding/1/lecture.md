@@ -22,9 +22,12 @@
   * Multiple parameters
   * Extract Method pattern
   * Linking files together (break methods off from executing code)
-* Problem: [Albums and Artists?]() (40 min)
+* Problem: [Albums and Artists](albums.md) (40 min)
   * Object Oriented Programming
+  * Sending messages
   * Everything in Ruby is an object
+  * Writing your own classes
+  * Monkey patching
 
 ### Homework
 
