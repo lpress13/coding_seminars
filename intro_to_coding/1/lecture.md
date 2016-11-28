@@ -15,6 +15,7 @@
   * Ways to determine if something is an Integer
   * Assignment in a condition
   * truthiness, &&, ||
+  * Keyword arguments
 * Problem: [Blackjack Advisor](blackjack.md) (30 min)
   * Iterative design
   * Hashes in hashes in arrays
