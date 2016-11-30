@@ -28,4 +28,4 @@ Get a stronger grip on:
 
 ### Homework
 
-[]()
+[Number Guessing Game](homework.md)
