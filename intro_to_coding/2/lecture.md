@@ -2,12 +2,14 @@
 
 ### Goals
 
+* Understand the basics of git
+* Be able to build code iteratively with frequent commits
 * Understand Object Oriented Programming
 
 ### Lecture
 
 * Homework Review
-* Problem: A number of folks turned in Homework that HAD been working, but which they then broke and couldn't fix.
+* Problem: A number of folks turned in Homework that HAD been working, but which they then broke and had a hard time fixing.
   * Iterative design
   * `git init`
   * `git add`
