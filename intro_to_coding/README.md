@@ -13,17 +13,16 @@ DAY 1
 * Iterative design
 * Methods
 * Common data structures
-* Object-oriented programming
 
 DAY 2
 
-* Test-driven development
-* Git and best practices
+* Git (part 1) and best practices
+* Object-oriented programming
 
 DAY 3
 
+* Test-driven development
 * Processing data files
-* Calculations and basic statistics
 * Regular expressions
 
 DAY 4

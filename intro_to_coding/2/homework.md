@@ -11,6 +11,7 @@ After completing normal mode, you should...
 * Understand the basics of Object Oriented Programming
 * Be able to write your own classes and instantiate them into objects
 * Be able to use keyword arguments
+* Be able to store your code in a git repository
 
 After completing hard mode, you should...
 
@@ -25,9 +26,10 @@ After completing nightmare mode, you should...
 
 ## Deliverables
 
-* **An Employee class in its own file.**
-* **A Department class in its own file.**
-* **A third file called `development.rb` which calls various methods in your classes.**
+* **An Employee class** in its own file.
+* **A Department class** in its own file.
+* **A third file called `development.rb`** which calls various methods in your classes.
+* **A GitHub repository** containing these three files.  You should make at least one commit for every requirement below.
 
 ## Normal Mode
 
@@ -48,7 +50,6 @@ You want to keep track of employees (with their names, email addresses, phone nu
 At this stage, your code should:
 
 * Use keyword arguments at least once.
-* Be delivered using a GitHub repository.  We haven't talked about these in class yet, but give it a shot on your own.  This will prime you for faster learning in the next lesson.  Submit a link to your GitHub repository on the homework submission form.
 
 #### Hard Mode
 
