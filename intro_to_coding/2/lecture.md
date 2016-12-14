@@ -8,7 +8,7 @@
 
 ### Lecture
 
-* Homework Review
+* Homework Review: [Mary's](mary.rb)
 * Problem: A number of folks turned in Homework that HAD been working, but which they then broke and had a hard time fixing.
   * Iterative design
   * `git init`
@@ -22,7 +22,7 @@
   * Everything in Ruby is an object
   * Writing your own classes
   * Monkey patching
-* FYI, thinking about doing the first January assignment in pairs. Thoughts?
+  * [Our in-class solution](objects)
 
 ### Homework
 
