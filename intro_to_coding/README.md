@@ -22,7 +22,7 @@ DAY 2
 DAY 3
 
 * Test-driven development
-* Processing data files
+* Git (part 2) - branches
 * Regular expressions
 
 DAY 4
