@@ -1,4 +1,4 @@
-# Intro to Coding: Lecture 2
+# Intro to Coding: Lecture 3
 
 ### Goals
 
@@ -8,6 +8,10 @@
 * Understand branches in git
 
 ### Lecture
+
+* Homework Review
+* Problem:
+* Problem:
 
 ### Homework
 
