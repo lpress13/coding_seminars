@@ -16,17 +16,19 @@ DAY 1
 
 DAY 2
 
-* Git (part 1) and best practices
+* Git (part 1) - add, commit
 * Object-oriented programming
 
 DAY 3
 
-* Test-driven development
-* Git (part 2) - branches
 * Regular expressions
+* Git (part 2) - push, pull, clone
+* Test-driven development
+* Reading from files?
 
 DAY 4
 
+* Git (part 3) - branches
 * Relational and normalized databases
 * Database design
 
