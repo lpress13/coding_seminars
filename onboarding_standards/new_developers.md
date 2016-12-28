@@ -19,7 +19,7 @@ Schedule pair programming time (one on one with a real task to complete, in the 
 
 ## Topics to Cover during Onboarding
 
-Although this is a rather lengthy list, it seems reasonable that we as a group make sure that we intentionally cover our bases on these fronts.  One way to approach it is to group these items together in a number of sessions equalling the number of developers at the company and assign one session to each person.  That way the new dev can hear from and get to met everyone. 
+Although this is a rather lengthy list, it seems reasonable that we as a group make sure that we intentionally cover our bases on these fronts.  One way to approach it is to group these items together in a number of sessions equalling the number of developers at the company and assign one session to each person.  That way the new dev can hear from and get to met everyone.
 
 Ai-specific:
 
@@ -34,7 +34,7 @@ General programming topics:
 
 * TDD
 * OOP & best practices
-* Dash of functional programming?
+* A smidgen of blocks/functional programming?
 * Relational databases and SQL
 * Web requests of all flavors (verbs, headers, etc)
 * Regex
