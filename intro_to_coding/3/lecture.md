@@ -13,6 +13,17 @@
   * Show `attr_reader`
   * Show `attr_writer`
   * Show `.reduce()` (and talk about the other enumerable methods)
+
+**This is currently written as two different lessons.  The first does a deep dive into objects and we start work on the HW in class:**
+
+* Deep dive: Everything in Ruby is an Object
+  * Math as methods
+  * Monkey patching
+  * Exceptions
+* Start work on Currency Converter
+
+**The second assumes we've had enough of objects and goes straight into regular expressions:**
+
 * Problem: Given a block of text, find all phone numbers and e-mail addresses in it
   * Regular expressions (Rubular)
   * Example: Did the user just type in a number?
@@ -38,4 +49,6 @@
 
 ### Homework
 
-[]()
+Path 1: [Currency Converter](homework.md)
+
+Path 2: ??
