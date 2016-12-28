@@ -9,8 +9,11 @@
 
 ### Lecture
 
-* Homework Review: 
-* Problem:
+* Homework Review: [Mason's solution](mason.rb)
+  * Show `attr_reader`
+  * Show `attr_writer`
+  * Show `.reduce()` (and talk about the other enumerable methods)
+* Problem: 
 * Problem:
 
 ### Homework
