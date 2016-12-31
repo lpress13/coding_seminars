@@ -40,7 +40,7 @@ General programming topics:
 * Regex
 * Authentication/security
 
-Discipline-specific (2ndary goal: sanity check):
+Discipline-specific (secondary goal: sanity check):
 
 * Class architecture
 * Gems/packages we're using
