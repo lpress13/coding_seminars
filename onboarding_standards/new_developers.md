@@ -34,7 +34,7 @@ General programming topics:
 
 * TDD
 * OOP & best practices
-* A smidgen of blocks/functional programming?
+* Blocks/functional programming
 * Relational databases and SQL
 * Web requests of all flavors (verbs, headers, etc)
 * Regex
