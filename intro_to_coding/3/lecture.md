@@ -21,6 +21,10 @@
   * Monkey patching
   * Exceptions
 * Start work on Currency Converter
+  * Create a repo, push it up to Github
+  * Forking, `git clone`
+  * Gems (minitest)
+  * TDD
 
 **The second assumes we've had enough of objects and goes straight into regular expressions:**
 
