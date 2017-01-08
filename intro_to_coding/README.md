@@ -21,23 +21,25 @@ DAY 2
 
 DAY 3
 
-* Regular expressions
 * Git (part 2) - push, pull, clone
 * Test-driven development
-* Reading from files?
 
 DAY 4
 
 * Git (part 3) - branches
+* Regular expressions
+* Reading from files?
+
+DAY 5
 * Relational and normalized databases
 * Database design
 
-DAY 5
+DAY 6
 
 * SQL
 * Object-relational mappers (ActiveRecord)
 
-DAY 6
+DAY 7
 
 * The Web
 * APIs
