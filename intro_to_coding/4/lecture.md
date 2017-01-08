@@ -2,9 +2,6 @@
 
 ### Goals
 
-* Reinforce object oriented programming
-* Understand remote repositories in git
-* Understand the process of TDD
 * Be able to use regular expressions
 
 ### Lecture
@@ -28,7 +25,7 @@
   * `{1, 3}`
   * `.`
   * Literals
-* Finally: Does a string contain a phone number?
+  * Finally: Phone number and e-mail address extraction in Ruby
 
 ### Homework
 

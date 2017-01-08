@@ -5,7 +5,6 @@
 * Reinforce object oriented programming
 * Understand remote repositories in git
 * Understand the process of TDD
-* Be able to use regular expressions
 
 ### Lecture
 
