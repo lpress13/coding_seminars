@@ -8,8 +8,7 @@
 
 * Homework Review: []()
 
-* Problem: Given a block of text, find all phone numbers and e-mail addresses in it
-  * Regular expressions (Rubular)
+* Regular expressions (Rubular)
   * Example: Did the user just type in a number?
   * `\d`
   * `*`, `+`
@@ -25,8 +24,15 @@
   * `{1, 3}`
   * `.`
   * Literals
-  * Finally: Phone number and e-mail address extraction in Ruby
+* Problem: Given a CSV file, find all phone numbers in it
+  * What a CSV file is
+  * `arrary_of_arrays = CSV.read` or `CSV.foreach`
+  * `foreach(..., headers: true)`
+  * `.match`
+  * `.scan`
+  * `.sub`
+  * `.gsub`
 
 ### Homework
 
-[]()
+[User Validator](homework.md)
