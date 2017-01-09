@@ -26,11 +26,11 @@ DAY 3
 
 DAY 4
 
-* Git (part 3) - branches
 * Regular expressions
 * Reading from files?
 
 DAY 5
+
 * Relational and normalized databases
 * Database design
 
@@ -41,6 +41,7 @@ DAY 6
 
 DAY 7
 
+* Git (part 3) - branches
 * The Web
 * APIs
 
