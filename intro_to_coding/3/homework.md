@@ -12,7 +12,6 @@ After completing this assignment, you should...
 * Understand how objects can return objects of other classes as responses to messages
 * Understand how to execute Ruby code which spans multiple files
 * Understand how to create your own exception classes
-* Be able to initialize an object from a set of parameters
 * Be able to initialize a set of objects from a complex data structure
 * Be able to raise exceptions/errors as appropriate
 * Be able to parse strings to isolate specific symbols
@@ -22,14 +21,13 @@ After completing this assignment, you should...
 * **A GitHub repository.**
 * **A Currency class in its own file.**
 * **A CurrencyConverter class in its own file.**
-* **A quality README.**
 * **A series of commits on that repository.**  Not just one at the end!
 
 After your work is complete, make sure to `git push` your changes up to GitHub.  Feel free to do this more than once along the way, of course.
 
 ## Normal Mode
 
-In this weekend assignment, you will be asked to create your first Ruby classes.  One of those classes will represent an amount of currency (a real-world thing you can point to), and the second will represent a currency converter (arguably a real-world person, but actually a set of procedures).
+In this assignment, you will be asked to create Ruby classes.  One of those classes will represent an amount of currency (a real-world thing you can point to), and the second will represent a currency converter (arguably a real-world person, but actually a set of procedures).
 
 In order to complete this assignment, your classes (and objects instantiated from them) must satisfy all of the requirements below.  You may tackle these in any order, but every time you finish a requirement, commit your code with a message describing the requirement.  This means that you should have a lot of commits.
 

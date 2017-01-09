@@ -3,6 +3,7 @@
 ### Goals
 
 * Be able to use regular expressions
+* Be able to read from CSV files
 
 ### Lecture
 
