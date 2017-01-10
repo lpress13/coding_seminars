@@ -1,4 +1,6 @@
 class Department
+  attr_reader :name
+
   def initialize(name:)
     @name = name
     @employees = []
@@ -8,23 +10,13 @@ class Department
     @employees << employee
   end
 
-  def name
-    @name
-  end
-
   def total_salary
-    total = 0
-    @employees.each do |employee|
-      total += employee.salary
-    end
-    total
+    @employees.reduce(0) {|sum, e| sum + e.salary}
   end
 
   def give_raise(total_raise)
-    good_employees = []
-    employees.each do |employee|
-      good_employees << employee if employee.is_good
-    end
+    good_employees = employees.select {|e| employee.is_good?}
+
     good_employees.each do |employee|
       employee.give_raise(total_raise.to_f / good_employees.count)
     end
@@ -32,6 +24,9 @@ class Department
 end
 
 class Employee
+  attr_reader :name, :salary, :review
+  attr_writer :review, :performance
+
   def initialize(name:, email:, phone:, salary:)
     @name = name
     @email = email
@@ -39,23 +34,7 @@ class Employee
     @salary = salary
   end
 
-  def name
-    @name
-  end
-
-  def salary
-    @salary
-  end
-
-  def set_review(review)
-    @review = review
-  end
-
-  def set_performance(perf)
-    @performance = perf
-  end
-
-  def is_good
+  def is_good?
     @performance
   end
 
@@ -63,3 +42,6 @@ class Employee
     @salary += dollars
   end
 end
+
+locky = Employee.new(...)
+locky.review=("Okayest employee ever")
