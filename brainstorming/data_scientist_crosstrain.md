@@ -1,26 +1,26 @@
-Daily schedule (non-WFH days):
-
-* Morning standup
-* 1 hour of lessons
-* 1 hour of pairing with a senior (individually or all together)
-* 1 hour of pairing with each other
-* 2 daily checkins with a senior for questions
-
-Software development process:
-
-* Start small, build subsets of features, but each step should be working along the way
-* Make PRs small
-* Write tests first
-
-Ruby coding:
-
-* OO in Ruby
-
 ## Actual Discussions
 
-* Tuesday, 01/17
+* Tuesday, 2017-01-17
   * Normalized database design
   * Foreign keys, join tables
   * Data types
   * Binary (and other bases)
   * Wordsmith initial DB review
+* Thursday, 2017-01-19
+  * Getting Wordsmith installed
+  * Rails app structure
+  * Git branching and PR procedures
+
+## Topics Proposed by Developers
+
+* Git/PR standards
+* TDD process
+* When to define a class instead of just writing functions
+* Relational database basics
+* Rails app structure
+* Backgrounding / Sidekiq / Key-value DB
+* Testing and all the tools
+* Wordsmith component review
+* Maybe networking/APIs
+* Javascript in this context
+* Service architecture
