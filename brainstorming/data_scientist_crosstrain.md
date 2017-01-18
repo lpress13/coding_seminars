@@ -15,3 +15,12 @@ Software development process:
 Ruby coding:
 
 * OO in Ruby
+
+## Actual Discussions
+
+* Tuesday, 01/17
+  * Normalized database design
+  * Foreign keys, join tables
+  * Data types
+  * Binary (and other bases)
+  * Wordsmith initial DB review
