@@ -11,6 +11,7 @@ Reasons problems are introduced:
 * Common problems not identified
   * Developer training/resources?
   * Start with Ivy's "breaking changes" slides
+* Issues with external gems/libraries
 
 Metrics:
 

@@ -8,7 +8,12 @@
 ### Lecture
 
 * Homework Review: []()
-
+  * Default arguments
+  * Hashes vs. Keyword arguments
+  * Inheritance
+  * `.superclass`
+  * Exceptions
+  * Good commit messages
 * Regular expressions (Rubular)
   * Example: Did the user just type in a number?
   * `\d`
