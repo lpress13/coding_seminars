@@ -19,8 +19,12 @@ Metrics:
 * Time spent on hotfixes/warmfixes
 * Number of bugs reported
 
-Need to:
+When reviewing PRs, look for:
 
-* Meet with Matt (re: billing and hotfixes)
-* Meet with Damon (re: bug counts and measurement)
-* Plan out metric gathering and reporting
+* Size of PR
+* Style guide adherence
+* Query efficiency
+* Scaling concerns
+* Security vulnerabilities
+* Honeybadger use
+* Paper Trail use

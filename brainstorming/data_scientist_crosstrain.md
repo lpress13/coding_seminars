@@ -8,12 +8,13 @@
   * Wordsmith initial DB review
 * Thursday, 2017-01-19
   * Getting Wordsmith installed
-  * Rails app structure
+  * Rails app structure - MVC + DB + Routes
+  * Scaffold deep-dive
+* Friday, 2017-01-20
   * Git branching and PR procedures
 
-## Topics Proposed by Developers
+## Other Topics Proposed by Developers
 
-* Git/PR standards
 * TDD process
 * When to define a class instead of just writing functions
 * Relational database basics
