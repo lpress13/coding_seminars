@@ -7,7 +7,7 @@
 
 ### Lecture
 
-* Homework Review: []()
+* Homework Review: [Colin's](https://github.com/cmfeeney/currency)
   * Default arguments
   * Hashes vs. Keyword arguments
   * Inheritance
