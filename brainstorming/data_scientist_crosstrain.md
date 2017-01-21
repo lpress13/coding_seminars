@@ -10,7 +10,7 @@
   * Getting Wordsmith installed
   * Rails app structure - MVC + DB + Routes
   * Scaffold deep-dive
-* Friday, 2017-01-20
+* Monday, 2017-01-20
   * Git branching and PR procedures
 
 ## Other Topics Proposed by Developers
