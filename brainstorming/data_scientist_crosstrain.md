@@ -12,6 +12,7 @@
   * Scaffold deep-dive
 * Monday, 2017-01-20
   * Git branching and PR procedures
+  * Rails app structure - Models and validations
 
 ## Other Topics Proposed by Developers
 
