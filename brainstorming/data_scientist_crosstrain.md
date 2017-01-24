@@ -10,7 +10,10 @@
   * Getting Wordsmith installed
   * Rails app structure - MVC + DB + Routes
   * Scaffold deep-dive
-* Monday, 2017-01-20
+* Monday, 2017-01-23
+  * N+1 queries
+  * Migrations
+* Thursday, 2017-01-26
   * Git branching and PR procedures
   * Rails app structure - Models and validations
 

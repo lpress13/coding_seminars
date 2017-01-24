@@ -12,6 +12,8 @@ Reasons problems are introduced:
   * Developer training/resources?
   * Start with Ivy's "breaking changes" slides
 * Issues with external gems/libraries
+* Ignoring Honeybadger
+
 
 Metrics:
 
