@@ -16,6 +16,10 @@
 * Thursday, 2017-01-26
   * Git branching and PR procedures
   * Rails app structure - Models and validations
+  * Data vs. structure migrations
+  * Rollbacks and resets
+* Friday, 2017-01-27
+  * Agile development and client interaction practices
 
 ## Other Topics Proposed by Developers
 
