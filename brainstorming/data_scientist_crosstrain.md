@@ -20,6 +20,8 @@
   * Rollbacks and resets
 * Friday, 2017-01-27
   * Agile development and client interaction practices
+* Wednesday, 2017-02-01
+  * PR merging protocols
 
 ## Other Topics Proposed by Developers
 
