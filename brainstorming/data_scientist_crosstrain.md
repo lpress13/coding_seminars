@@ -22,6 +22,7 @@
   * Agile development and client interaction practices
 * Wednesday, 2017-02-01
   * PR merging protocols
+  * Testing and all the tools
 
 ## Other Topics Proposed by Developers
 
@@ -30,7 +31,6 @@
 * Relational database basics
 * Rails app structure
 * Backgrounding / Sidekiq / Key-value DB
-* Testing and all the tools
 * Wordsmith component review
 * Maybe networking/APIs
 * Javascript in this context
