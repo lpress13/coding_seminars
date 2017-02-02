@@ -30,3 +30,4 @@ When reviewing PRs, look for:
 * Security vulnerabilities
 * Honeybadger use
 * Paper Trail use
+* How exceptions bubble up (and whether they should)
