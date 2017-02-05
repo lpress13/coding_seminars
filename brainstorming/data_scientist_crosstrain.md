@@ -20,10 +20,15 @@
   * Rollbacks and resets
 * Friday, 2017-01-27
   * Agile development and client interaction practices
-* Thursday, 2017-02-01
+* Thursday, 2017-02-02
+  * Inheritance vs Modules vs Composition (delegation)
   * PR merging protocols
   * Testing: RSpec vs MiniTest
   * Testing: Factories vs Fixtures
+* Friday, 2017-02-03
+  * Extend vs include
+  * Metaprogramming
+  * Implicit receivers
 
 ## Other Topics Proposed by Developers
 
