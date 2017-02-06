@@ -3,21 +3,22 @@
 ## Week 1 - Steph's Traditional Orientation Meetings
 
 Monday
-9:00am -9:30am - Welcome and Tour!
-12:00pm-1:00pm - Lunch with the team
-3:00pm-4:00pm - Perks and Benefits & a Side of Happiness with Steph
+
+* 9:00am -9:30am - Welcome and Tour!
+* 12:00pm-1:00pm - Lunch with the team
+* 3:00pm-4:00pm - Perks and Benefits & a Side of Happiness with Steph
 
 Tuesday
-11:00am-11:30am - Onboarding - Company Vision and Enable Tribe with Robbie Allen
-1:30pm - 2:30pm - Company Meeting
+* 11:00am-11:30am - Onboarding - Company Vision and Enable Tribe with Robbie Allen
+* 1:30pm - 2:30pm - Company Meeting
 
 Thursday - Pajama Day!
-1:00pm - 1:30pm - Onboarding - Build Tribe with Adam Long
-1:30pm- 2:00pm - Onboarding - Ops Tribe with Corey Waters
+* 1:00pm - 1:30pm - Onboarding - Build Tribe with Adam Long
+* 1:30pm- 2:00pm - Onboarding - Ops Tribe with Corey Waters
 
 Friday
-1:00pm - 1:30pm - Onboarding - Attract Tribe with Adam Smith
-1:30pm- 2:00pm - Onboarding - Think Like a Customer Matt N
+* 1:00pm - 1:30pm - Onboarding - Attract Tribe with Adam Smith
+* 1:30pm- 2:00pm - Onboarding - Think Like a Customer Matt N
 
 ## Week 1 - Required Dev Topics
 
