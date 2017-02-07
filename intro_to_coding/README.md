@@ -31,6 +31,7 @@ DAY 4
 
 DAY 5
 
+* Git (part 3) - branches
 * Relational and normalized databases
 * Database design
 
@@ -41,7 +42,6 @@ DAY 6
 
 DAY 7
 
-* Git (part 3) - branches
 * The Web
 * APIs
 
