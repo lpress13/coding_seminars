@@ -2,7 +2,6 @@
 
 ### Goals
 
-* Understand git branching
 * Understand normalized database basics
 * Be able to design your own data structures
 
@@ -12,12 +11,13 @@
   * READMEs
   * Markdown
   * Good commit message style
-* Branches
+  * [Example multi-class solution](in_class/user_file.rb)
 * Problem: Albums and Artists was great... but it all disappeared when we shut off the program!
   * Memory vs disk again
   * Could have created CSVs and read from them each time
-  * Design CSVs for Albums/Artists
+  * Design CSVs for Contact App
   * Data types
+  * Float vs decimal (in more detail than necessary!)
   * Entity-Relationship Diagrams (ERDs)
   * Lucidchart
   * Primary and Foreign Keys
