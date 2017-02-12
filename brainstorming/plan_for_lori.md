@@ -52,3 +52,5 @@ Everything else will be optional, and up to Lori to schedule.  We'll encourage h
   * Rails introduction
   * Pair programming
   * Code review best practices
+* Sales
+* Labs
