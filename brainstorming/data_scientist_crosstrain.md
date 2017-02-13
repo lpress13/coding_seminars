@@ -29,6 +29,10 @@
   * Extend vs include
   * Metaprogramming
   * Implicit receivers
+* Week of 2017-02-06
+  * Instance vs Class Methods
+* Week of 2017-02-13
+  * Sidekiq and Background Processing
 
 ## Other Topics Proposed by Developers
 
