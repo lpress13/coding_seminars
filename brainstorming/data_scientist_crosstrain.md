@@ -30,6 +30,7 @@
   * Metaprogramming
   * Implicit receivers
 * Week of 2017-02-06
+  * More relational database concepts
   * Instance vs Class Methods
 * Week of 2017-02-13
   * Sidekiq and Background Processing
@@ -38,9 +39,6 @@
 
 * TDD process
 * When to define a class instead of just writing functions
-* Relational database basics
-* Rails app structure
-* Backgrounding / Sidekiq / Key-value DB
 * Wordsmith component review
 * Maybe networking/APIs
 * Javascript in this context
