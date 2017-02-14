@@ -34,6 +34,8 @@
   * Instance vs Class Methods
 * Week of 2017-02-13
   * Sidekiq and Background Processing
+  * SQL commands and their mappings to ActiveRecord
+  * AREL
 
 ## Other Topics Proposed by Developers
 
