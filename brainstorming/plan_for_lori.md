@@ -68,4 +68,4 @@ Everything else will be optional, and up to Lori to schedule.  We'll encourage h
 * Greg
   * Maintainable Managed Services: Tech Stack & Guiding Principles
 * James
-  * Design at Ai - Marvel, MDL, Tools we use (Sketch, Photoshop, Balsamiq)
+  * UI/UX at Ai - Marvel, MDL, Tools we use (Sketch, Photoshop, Balsamiq)
