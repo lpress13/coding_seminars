@@ -63,3 +63,5 @@ Everything else will be optional, and up to Lori to schedule.  We'll encourage h
 * Gaegler
   * Sidekiq
   * Devise
+* Corinne
+  * The development cycle for managed services projects
