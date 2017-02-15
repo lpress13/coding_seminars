@@ -65,3 +65,5 @@ Everything else will be optional, and up to Lori to schedule.  We'll encourage h
   * Devise
 * Corinne
   * The development cycle for managed services projects
+* Greg
+  * Maintainable Managed Services: Tech Stack & Guiding Principles
