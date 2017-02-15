@@ -59,3 +59,6 @@ Everything else will be optional, and up to Lori to schedule.  We'll encourage h
 * Chris
   * Concurrency
   * Functional Programming
+* Gaegler
+  * Sidekiq
+  * Devise
