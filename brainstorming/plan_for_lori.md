@@ -67,3 +67,5 @@ Everything else will be optional, and up to Lori to schedule.  We'll encourage h
   * The development cycle for managed services projects
 * Greg
   * Maintainable Managed Services: Tech Stack & Guiding Principles
+* James
+  * Design at Ai - Marvel, MDL, Tools we use (Sketch, Photoshop, Balsamiq)
