@@ -47,6 +47,7 @@ Everything else will be optional, and up to Lori to schedule.  We'll encourage h
   * Front-end side of codebase: Angular
   * Front-end WS debugging
   * Writing Javascript tests
+* David Ivy
   * Walkthrough of how the editor code is structured
 * Tyler
   * Rails introduction
