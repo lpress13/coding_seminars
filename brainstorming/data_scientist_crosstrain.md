@@ -36,6 +36,7 @@
   * Sidekiq and Background Processing
   * SQL commands and their mappings to ActiveRecord
   * AREL
+  * Static code analysis vs test suites vs load testing
 
 ## Other Topics Proposed by Developers
 
