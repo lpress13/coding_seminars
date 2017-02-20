@@ -69,3 +69,7 @@ Everything else will be optional, and up to Lori to schedule.  We'll encourage h
   * Maintainable Managed Services: Tech Stack & Guiding Principles
 * James
   * UI/UX at Ai - Marvel, MDL, Tools we use (Sketch, Photoshop, Balsamiq)
+* Robert
+  * Shell commands
+  * Dotfiles
+  * Intro to monitoring things (datadog, papertrail, honeybadger)
