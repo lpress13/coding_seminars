@@ -23,6 +23,7 @@
   * Find all email addresses, and show their owners’ names with them (join)
   * Find all people, and include all of their email addresses if they have them (left join)
   * Find all people with no e-mail addresses (left join, check for null)
+  * [List of clauses](sql_clauses.md)
 * ActiveRecord
   * [Starting point](person.rb)
   * Create a person model
