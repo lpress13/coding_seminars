@@ -8,8 +8,7 @@
 
 ### Lecture
 
-* Homework Review: []()
-  *
+* Homework Review: [Ben](https://gist.github.com/bruning/4b7b4fff721e49b654da7b0bd841f9d9)
 * git branching
 * Web Basics
   * Web Addresses
