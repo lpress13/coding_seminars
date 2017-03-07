@@ -18,15 +18,14 @@
 * What is an API?
   * Example: [Me at GitHub](https://api.github.com/users/masonfmatthews/events)
 * On the web, what sort of data do we get back from APIs?
-  * XML
-    * [Who is my Representative](http://whoismyrepresentative.com/getall_mems.php?zip=27701)
   * JSON
     * [Twitter](https://dev.twitter.com/rest/public)
     * [Nutritionix](https://www.mashape.com/msilverman/nutritionix-nutrition-database)
     * [TrailAPI](https://www.mashape.com/trailapi/trailapi)
     * [Yoda Speak](https://www.mashape.com/ismaelc/yoda-speak)
     * [Marvel API](http://developer.marvel.com/docs)
-    * [Blackjack API](http://deckofcardsapi.com/)
+    * [ShoutCloud](http://shoutcloud.io/)
+    * [Deck of Cards API](http://deckofcardsapi.com/)
     * NPR
     * Flickr
     * Getty Images
@@ -36,6 +35,8 @@
     * IGN
     * ESPN
     * ...and on and on...
+  * XML
+    * [Wikipedia](https://en.wikipedia.org/w/api.php?action=query&titles=Zelda&prop=revisions&rvprop=content&format=xml)
   * CSV
     * [Static Data Sets](http://vincentarelbundock.github.io/Rdatasets/datasets.html)
   * Images
