@@ -32,7 +32,7 @@ Other requirements:
 * The program should also comment on your behavior if you make a guess that doesn't help you.  For example, you might say "50" and then be told "that's too low."  If you then guess "25," you're just wasting a guess.
 * This game should be run from the command line by typing `ruby guessing_game.rb`.
 
-Bonus: You probably uses the `rand` method if left to your own devices. Find a way for the computer to pick a random number without using `rand`!
+Bonus: You'll probably use the `rand` method if left to your own devices. Find a way for the computer to pick a random number without using `rand`!
 
 ## Hard Mode
 

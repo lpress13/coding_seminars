@@ -12,11 +12,11 @@ Developers commonly listed three topics that should be required for all new dev 
 * Our PR lifecycle/process (Coop)
 * Testing in Wordsmith (Tyler)
 
-We're going to try to get those in during her first week as well.
+We're going to try to get those in during the first week as well.
 
 ## Weeks 2-4 - Optional Dev Topics
 
-Everything else will be optional, and up to Lori to schedule.  We'll encourage her to have no more than one per day.  Topics offered by developers are the following, but let Mason know if you would like to add anything to the list:
+Everything else will be optional, and up to the new developer to schedule.  It'll be encouraged to schedule no more than one per day.  Topics offered by developers are the following, but let Mason know if you would like to add anything to the list:
 
 * Phil
   * AWS services and WS infrastructure
