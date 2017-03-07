@@ -56,3 +56,5 @@ Everything else will be optional, and up to Lori to schedule.  We'll encourage h
   * Shell commands
   * Dotfiles
   * Intro to monitoring things (datadog, papertrail, honeybadger)
+* Mason
+  * Databases (and how we use them in Wordsmith)
