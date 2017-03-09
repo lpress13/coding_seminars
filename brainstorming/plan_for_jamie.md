@@ -22,8 +22,8 @@ Everything else will be optional, and up to the new developer to schedule.  It'l
   * AWS services and WS infrastructure
   * Releases, deploys, hotfixes, and warmfixes
 * Ganesh
-  * Rails back-end overview
-  * Devops basics
+  * NLG timeline at Ai
+  * Scaling strategies
 * Joe
   * Ai culture (PTO, WFH, values, time tracking, food, etc.)
 * Rachel
