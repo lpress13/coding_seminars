@@ -2,7 +2,12 @@
 
 This class is geared towards both developers *and* non developers. We'll cover a wide range of topics related to front-end development. If you're interested in learning more about HTML, CSS, JavaScript, and front-end development in general, then join us!
 
+
+## Schedule
+
 We'll meet once every two weeks, for an hour and a half. I'll have office hours in between classes.
+
+The first day of class is Tuesday, April 4th. Office hours will be Thursdays (every week) from 3-4pm, with the exception of the first week where office hours will be Friday 4/7 from 3-4pm due to the scavenger hunt on Thursday.
 
 ## Pre-requisites
 
@@ -20,16 +25,16 @@ I'm happy to help with getting your machine setup either before class starts, or
 
 This is subject to change, however to get a rough idea of what we're going to cover:
 
-### Week 1
+### Class 1 - 4/4
 
 * Welcome
-* HTML basics
-* CSS basics
-* CSS positioning
-* JavaScript basics
-* JQuery basics
+* HTML: basics
+* CSS: basics
+* CSS: positioning
+* JavaScript: basics
+* JQuery: basics
 
-### Week 2
+### Class 2 - 4/18
 
 * Media Queries
 * Grid Systems
@@ -38,33 +43,36 @@ This is subject to change, however to get a rough idea of what we're going to co
 * JavaScript: context
 * AJAX
 
-### Week 3
+### Class 3 - 5/2
 
 * Flexbox basics
-* CSS centering
-* CSS Pre-processors
+* CSS: centering
+* CSS: Pre-processors
 * Browserify and ES6
-* JavaScript: basic DOM manipulation
 * JavaScript: hoisting
 * JavaScript: var/const/let
 * JavaScript: loops and iteration
 
-### Week 4
+### Class 4 - 5/16
+
+* Webpack
+* Sass mixins
+* CSS: Post-processors
+* JavaScript: object inheritance
+* JavaScript: IIFEs
+
+### Class 5 - 5/30
 
 TBD
 
-### Week 5
+### Class 6 - 6/13
 
 TBD
 
-### Week 6
+### Class 7 - 6/27
 
 TBD
 
-### Week 7
-
-TBD
-
-### Week 8
+### Class 8 - 7/11
 
 TBD
