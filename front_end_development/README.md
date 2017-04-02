@@ -1,13 +1,6 @@
-# Front-end Development
+# Front-end Development with Rachel Tublitz
 
 This class is geared towards both developers *and* non developers. We'll cover a wide range of topics related to front-end development. If you're interested in learning more about HTML, CSS, JavaScript, and front-end development in general, then join us!
-
-
-## Schedule
-
-We'll meet once every two weeks, for an hour and a half. I'll have office hours in between classes.
-
-The first day of class is Tuesday, April 4th. Office hours will be Thursdays (every week) from 3-4pm, with the exception of the first week where office hours will be Friday 4/7 from 3-4pm due to the scavenger hunt on Thursday.
 
 ## Pre-requisites
 
@@ -25,7 +18,7 @@ I'm happy to help with getting your machine setup either before class starts, or
 
 This is subject to change, however to get a rough idea of what we're going to cover:
 
-### Class 1 - 4/4
+### Class 1
 
 * Welcome
 * HTML: basics
@@ -34,7 +27,7 @@ This is subject to change, however to get a rough idea of what we're going to co
 * JavaScript: basics
 * JQuery: basics
 
-### Class 2 - 4/18
+### Class 2
 
 * Media Queries
 * Grid Systems
@@ -43,7 +36,7 @@ This is subject to change, however to get a rough idea of what we're going to co
 * JavaScript: context
 * AJAX
 
-### Class 3 - 5/2
+### Class 3
 
 * Flexbox basics
 * CSS: centering
@@ -53,7 +46,7 @@ This is subject to change, however to get a rough idea of what we're going to co
 * JavaScript: var/const/let
 * JavaScript: loops and iteration
 
-### Class 4 - 5/16
+### Class 4
 
 * Webpack
 * Sass mixins
@@ -61,18 +54,47 @@ This is subject to change, however to get a rough idea of what we're going to co
 * JavaScript: object inheritance
 * JavaScript: IIFEs
 
-### Class 5 - 5/30
+### Class 5
 
 TBD
 
-### Class 6 - 6/13
+### Class 6
 
 TBD
 
-### Class 7 - 6/27
+### Class 7
 
 TBD
 
-### Class 8 - 7/11
+### Class 8
 
 TBD
+
+## Calendar
+
+We'll meet once every two weeks, for an hour and a half. I'll have office hours in between classes. If this schedule changes, updates will be posted here:
+
+* 4/4 - Class 1 - 3-4:30pm
+* 4/7 - Office Hours - 10:30-11:30am
+* 4/13 - Office Hours - 3-4pm
+* 4/18 - Class 2 - 3-4:30pm
+* 4/20 - Office Hours - 3-4pm
+* 4/27 - Office Hours - 3-4pm
+* 5/2 - Class 3 - 3-4:30pm
+* 5/4 - Office Hours - 3-4pm
+* 5/11 - Office Hours - 3-4pm
+* 5/16 - Class 4 - 3-4:30pm
+* 5/18 - Office Hours - 3-4pm
+* 5/25 - Office Hours - 3-4pm
+* 5/30 - Class 5 - 3-4:30pm
+* 6/1 - Office Hours - 3-4pm
+* 6/8 - Office Hours - 3-4pm
+* 6/13 - Class 6 - 3-4:30pm
+* 6/15 - Office Hours - 3-4pm
+* 6/22 - Office Hours - 3-4pm
+* 6/27 - Class 7 - 3-4:30pm
+* TBD - Office Hours
+* 7/6 - Office Hours - 3-4pm
+* 7/11 - Class 8 - 3-4:30pm
+* 7/13 - Office Hours - 3-4pm
+* 7/27 - Office Hours - 3-4pm
