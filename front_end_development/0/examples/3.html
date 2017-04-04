@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+  <head>
+    <title>CSS positioning</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700" rel="stylesheet">
+    <style type="text/css">
+      body {
+         margin: 0;
+         padding: 0;
+         font-family: 'Roboto', 'Helvetica', 'Helvetica Neue', sans-serif;
+         font-size: 16px;
+      }
+
+      div {
+        background: green;
+        width: 50%;
+        display: inline-block;
+      }
+
+      span {
+        display: inline-block;
+        float: right;
+        width: 50%;
+        background: #ccc;
+      }
+
+
+      .nameit {
+        position: fixed;
+        bottom: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div>I should take up 50% of the screen width.</div>
+    <span> And I should take up the rest.</span>
+    <footer class="nameit">I should stick to the bottom of the page.</footer>
+  </body>
+</html>

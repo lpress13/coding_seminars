@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+  <head>
+    <title>JQuery basics</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <style type="text/css">
+      body {
+         margin: 0;
+         padding: 0;
+         font-family: 'Roboto', 'Helvetica', 'Helvetica Neue', sans-serif;
+         font-size: 16px;
+      }
+
+      .welcome-to-js {
+        top: 25vh;
+        height: 50vh;
+        width: 50vh;
+        background: #924747;
+        color: rgba(255, 255, 255, 0.71);
+        text-align: center;
+        margin: auto;
+        position: relative;
+      }
+
+      span {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-transform: uppercase;
+        font-size: 22px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="welcome-to-js"><span>Wait, what?</span></div>
+    <script type="text/javascript">
+      $(function(){
+        var $element = $('.welcome-to-js span');
+        $element.text('Welcome to JavaScript');
+
+        $element.on('click', function(){
+          $(this).animate({
+            'font-size': '300px'
+          }, 500);
+        });
+      });
+    </script>
+  </body>
+</html>
